@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.c4dbc63f.css",
-    "main.js": "/memeland/static/js/main.8e83b93e.js",
+    "main.css": "/memeland/static/css/main.26dbf535.css",
+    "main.js": "/memeland/static/js/main.7b236591.js",
     "static/media/bg-punks.png": "/memeland/static/media/bg-punks.e1fa219d75aa2aae0396.png",
     "static/media/skin-punks.png": "/memeland/static/media/skin-punks.373b84cbc038df9faa79.png",
     "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/public.avif": "/memeland/static/media/public.19113a4bd730dbbc780c.avif",
     "index.html": "/memeland/index.html",
-    "main.c4dbc63f.css.map": "/memeland/static/css/main.c4dbc63f.css.map",
-    "main.8e83b93e.js.map": "/memeland/static/js/main.8e83b93e.js.map"
+    "main.26dbf535.css.map": "/memeland/static/css/main.26dbf535.css.map",
+    "main.7b236591.js.map": "/memeland/static/js/main.7b236591.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4dbc63f.css",
-    "static/js/main.8e83b93e.js"
+    "static/css/main.26dbf535.css",
+    "static/js/main.7b236591.js"
   ]
 }
