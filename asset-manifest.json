@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.c5f773c5.css",
+    "main.css": "/memeland/static/css/main.29e946d4.css",
     "main.js": "/memeland/static/js/main.5ec1096d.js",
     "static/media/main-bg-bronze.png": "/memeland/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/public.avif": "/memeland/static/media/public.19113a4bd730dbbc780c.avif",
     "index.html": "/memeland/index.html",
-    "main.c5f773c5.css.map": "/memeland/static/css/main.c5f773c5.css.map",
+    "main.29e946d4.css.map": "/memeland/static/css/main.29e946d4.css.map",
     "main.5ec1096d.js.map": "/memeland/static/js/main.5ec1096d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f773c5.css",
+    "static/css/main.29e946d4.css",
     "static/js/main.5ec1096d.js"
   ]
 }
