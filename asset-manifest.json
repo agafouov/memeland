@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.b6d4da80.css",
+    "main.css": "/memeland/static/css/main.81b45231.css",
     "main.js": "/memeland/static/js/main.b7ce92a0.js",
-    "static/media/main-bg-galleon.png": "/memeland/static/media/main-bg-galleon.f6b878a7dcdbf1582413.png",
+    "static/media/skin-floki.png": "/memeland/static/media/skin-floki.54add5aa51b8f30d896e.png",
     "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
     "index.html": "/memeland/index.html",
-    "main.b6d4da80.css.map": "/memeland/static/css/main.b6d4da80.css.map",
+    "main.81b45231.css.map": "/memeland/static/css/main.81b45231.css.map",
     "main.b7ce92a0.js.map": "/memeland/static/js/main.b7ce92a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6d4da80.css",
+    "static/css/main.81b45231.css",
     "static/js/main.b7ce92a0.js"
   ]
 }
