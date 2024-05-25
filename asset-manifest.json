@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.3735b005.css",
-    "main.js": "/memeland/static/js/main.08516f77.js",
+    "main.css": "/memeland/static/css/main.e6796459.css",
+    "main.js": "/memeland/static/js/main.4555bc2d.js",
     "static/media/main-bg-bronze.png": "/memeland/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/skin-notcoin.avif": "/memeland/static/media/skin-notcoin.19113a4bd730dbbc780c.avif",
     "index.html": "/memeland/index.html",
-    "main.3735b005.css.map": "/memeland/static/css/main.3735b005.css.map",
-    "main.08516f77.js.map": "/memeland/static/js/main.08516f77.js.map"
+    "main.e6796459.css.map": "/memeland/static/css/main.e6796459.css.map",
+    "main.4555bc2d.js.map": "/memeland/static/js/main.4555bc2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3735b005.css",
-    "static/js/main.08516f77.js"
+    "static/css/main.e6796459.css",
+    "static/js/main.4555bc2d.js"
   ]
 }
