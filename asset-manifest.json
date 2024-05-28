@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memeland/static/css/main.25f59fa1.css",
-    "main.js": "/memeland/static/js/main.57ba06f0.js",
+    "main.js": "/memeland/static/js/main.91484a9b.js",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/not.gif": "/memeland/static/media/not.93093ee3f0c32325d61e.gif",
     "static/media/main-bg-cookie.jpg": "/memeland/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
@@ -15,10 +15,10 @@
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "index.html": "/memeland/index.html",
     "main.25f59fa1.css.map": "/memeland/static/css/main.25f59fa1.css.map",
-    "main.57ba06f0.js.map": "/memeland/static/js/main.57ba06f0.js.map"
+    "main.91484a9b.js.map": "/memeland/static/js/main.91484a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.25f59fa1.css",
-    "static/js/main.57ba06f0.js"
+    "static/js/main.91484a9b.js"
   ]
 }
