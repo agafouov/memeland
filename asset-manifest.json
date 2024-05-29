@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.7049993d.css",
-    "main.js": "/memeland/static/js/main.c14eddba.js",
+    "main.css": "/memeland/static/css/main.46bc3022.css",
+    "main.js": "/memeland/static/js/main.b68033a0.js",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/not.gif": "/memeland/static/media/not.93093ee3f0c32325d61e.gif",
     "static/media/peepo-rocket.gif": "/memeland/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
@@ -10,15 +10,16 @@
     "static/media/main-bg-silver.png": "/memeland/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/memeland/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/memeland/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
+    "static/media/squad-battle-bg.png": "/memeland/static/media/squad-battle-bg.b920abb0e20a74f5359c.png",
     "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/skin-notcoin.avif": "/memeland/static/media/skin-notcoin.19113a4bd730dbbc780c.avif",
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "index.html": "/memeland/index.html",
-    "main.7049993d.css.map": "/memeland/static/css/main.7049993d.css.map",
-    "main.c14eddba.js.map": "/memeland/static/js/main.c14eddba.js.map"
+    "main.46bc3022.css.map": "/memeland/static/css/main.46bc3022.css.map",
+    "main.b68033a0.js.map": "/memeland/static/js/main.b68033a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7049993d.css",
-    "static/js/main.c14eddba.js"
+    "static/css/main.46bc3022.css",
+    "static/js/main.b68033a0.js"
   ]
 }
