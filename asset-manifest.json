@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memeland/static/css/main.817bbffd.css",
-    "main.js": "/memeland/static/js/main.dbbc3eed.js",
+    "main.js": "/memeland/static/js/main.5a1111af.js",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/not.gif": "/memeland/static/media/not.93093ee3f0c32325d61e.gif",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
@@ -25,10 +25,10 @@
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "index.html": "/memeland/index.html",
     "main.817bbffd.css.map": "/memeland/static/css/main.817bbffd.css.map",
-    "main.dbbc3eed.js.map": "/memeland/static/js/main.dbbc3eed.js.map"
+    "main.5a1111af.js.map": "/memeland/static/js/main.5a1111af.js.map"
   },
   "entrypoints": [
     "static/css/main.817bbffd.css",
-    "static/js/main.dbbc3eed.js"
+    "static/js/main.5a1111af.js"
   ]
 }
