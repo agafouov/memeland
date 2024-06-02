@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.db382565.css",
-    "main.js": "/memeland/static/js/main.494ed4b9.js",
+    "main.css": "/memeland/static/css/main.5393e522.css",
+    "main.js": "/memeland/static/js/main.5cd5b9d6.js",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/main-bg-doge.jpg": "/memeland/static/media/main-bg-doge.d1ce5f6ff124ec3e253f.jpg",
@@ -40,11 +40,11 @@
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.db382565.css.map": "/memeland/static/css/main.db382565.css.map",
-    "main.494ed4b9.js.map": "/memeland/static/js/main.494ed4b9.js.map"
+    "main.5393e522.css.map": "/memeland/static/css/main.5393e522.css.map",
+    "main.5cd5b9d6.js.map": "/memeland/static/js/main.5cd5b9d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.db382565.css",
-    "static/js/main.494ed4b9.js"
+    "static/css/main.5393e522.css",
+    "static/js/main.5cd5b9d6.js"
   ]
 }
