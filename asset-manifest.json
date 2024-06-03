@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.efec8852.css",
+    "main.css": "/memeland/static/css/main.3cf550f9.css",
     "main.js": "/memeland/static/js/main.2a6a8570.js",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/main-bg-doge.jpg": "/memeland/static/media/main-bg-doge.d1ce5f6ff124ec3e253f.jpg",
-    "static/media/not.gif": "/memeland/static/media/not.93093ee3f0c32325d61e.gif",
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
     "static/media/robot-ape.png": "/memeland/static/media/robot-ape.3d87cd52a24c6fb61bbb.png",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
@@ -39,11 +38,11 @@
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.efec8852.css.map": "/memeland/static/css/main.efec8852.css.map",
+    "main.3cf550f9.css.map": "/memeland/static/css/main.3cf550f9.css.map",
     "main.2a6a8570.js.map": "/memeland/static/js/main.2a6a8570.js.map"
   },
   "entrypoints": [
-    "static/css/main.efec8852.css",
+    "static/css/main.3cf550f9.css",
     "static/js/main.2a6a8570.js"
   ]
 }
