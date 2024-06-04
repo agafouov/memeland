@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.19423655.css",
-    "main.js": "/memeland/static/js/main.ee62514d.js",
+    "main.css": "/memeland/static/css/main.5f3a99db.css",
+    "main.js": "/memeland/static/js/main.ac7ab3df.js",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
@@ -42,11 +42,11 @@
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.19423655.css.map": "/memeland/static/css/main.19423655.css.map",
-    "main.ee62514d.js.map": "/memeland/static/js/main.ee62514d.js.map"
+    "main.5f3a99db.css.map": "/memeland/static/css/main.5f3a99db.css.map",
+    "main.ac7ab3df.js.map": "/memeland/static/js/main.ac7ab3df.js.map"
   },
   "entrypoints": [
-    "static/css/main.19423655.css",
-    "static/js/main.ee62514d.js"
+    "static/css/main.5f3a99db.css",
+    "static/js/main.ac7ab3df.js"
   ]
 }
