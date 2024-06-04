@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.e1b574ce.css",
+    "main.css": "/memeland/static/css/main.30a2be9a.css",
     "main.js": "/memeland/static/js/main.dc0b9507.js",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/main-bg-doge.jpg": "/memeland/static/media/main-bg-doge.d1ce5f6ff124ec3e253f.jpg",
+    "static/media/level_gold.png": "/memeland/static/media/level_gold.ea272f8adfcd1cf2241d.png",
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
     "static/media/robot-ape.png": "/memeland/static/media/robot-ape.3d87cd52a24c6fb61bbb.png",
+    "static/media/level_platinum.png": "/memeland/static/media/level_platinum.9fcd3ed64264930c3c8b.png",
     "static/media/level_silver.png": "/memeland/static/media/level_silver.94981d951b7b5101bae5.png",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
     "static/media/level_bronze.png": "/memeland/static/media/level_bronze.1d31d65dcecd0f6b1b06.png",
@@ -43,11 +45,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.e1b574ce.css.map": "/memeland/static/css/main.e1b574ce.css.map",
+    "main.30a2be9a.css.map": "/memeland/static/css/main.30a2be9a.css.map",
     "main.dc0b9507.js.map": "/memeland/static/js/main.dc0b9507.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1b574ce.css",
+    "static/css/main.30a2be9a.css",
     "static/js/main.dc0b9507.js"
   ]
 }
