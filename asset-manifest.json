@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.38416b2d.css",
-    "main.js": "/memeland/static/js/main.899b397b.js",
+    "main.css": "/memeland/static/css/main.0e2605b6.css",
+    "main.js": "/memeland/static/js/main.84138e3b.js",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/main-bg-doge.jpg": "/memeland/static/media/main-bg-doge.d1ce5f6ff124ec3e253f.jpg",
@@ -29,6 +29,7 @@
     "static/media/zzz.webp": "/memeland/static/media/zzz.200fa63bef7bfdc7d6f6.webp",
     "static/media/rocket.png": "/memeland/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/logo-shib.png": "/memeland/static/media/logo-shib.14f40fd2c46c07b7a2a1.png",
+    "static/media/battery.png": "/memeland/static/media/battery.3edd01cd47a8de62da1d.png",
     "static/media/logo-floki.png": "/memeland/static/media/logo-floki.70094103ab4d6132cedf.png",
     "static/media/logo-pepe.jpg": "/memeland/static/media/logo-pepe.41458ad1796c69736c89.jpg",
     "static/media/fire.png": "/memeland/static/media/fire.a3f436f73c71c388f802.png",
@@ -36,14 +37,15 @@
     "static/media/skin-notcoin.avif": "/memeland/static/media/skin-notcoin.19113a4bd730dbbc780c.avif",
     "static/media/logo-bonk.jpg": "/memeland/static/media/logo-bonk.2b1bd6bc7cc1a48cdbfa.jpg",
     "static/media/skin-wif.webp": "/memeland/static/media/skin-wif.98372bbf5f87f3d908a5.webp",
+    "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/tier1.png": "/memeland/static/media/tier1.36921a828080d54bff2d.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.38416b2d.css.map": "/memeland/static/css/main.38416b2d.css.map",
-    "main.899b397b.js.map": "/memeland/static/js/main.899b397b.js.map"
+    "main.0e2605b6.css.map": "/memeland/static/css/main.0e2605b6.css.map",
+    "main.84138e3b.js.map": "/memeland/static/js/main.84138e3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.38416b2d.css",
-    "static/js/main.899b397b.js"
+    "static/css/main.0e2605b6.css",
+    "static/js/main.84138e3b.js"
   ]
 }
