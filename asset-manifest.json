@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.1b93f3ec.css",
-    "main.js": "/memeland/static/js/main.7f87eb6f.js",
+    "main.css": "/memeland/static/css/main.33a0fbbe.css",
+    "main.js": "/memeland/static/js/main.8b8d6987.js",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
@@ -31,7 +31,7 @@
     "static/media/squad-battle-bg.png": "/memeland/static/media/squad-battle-bg.b920abb0e20a74f5359c.png",
     "static/media/logo-shib.jpg": "/memeland/static/media/logo-shib.f277a8df47ed1c9d9f51.jpg",
     "static/media/logo-floki.jpg": "/memeland/static/media/logo-floki.9cedbb89b76634954d0e.jpg",
-    "static/media/main-bg-pepe.png": "/memeland/static/media/main-bg-pepe.4efec14eee0336bb3fa4.png",
+    "static/media/main-bg-pepe.png": "/memeland/static/media/main-bg-pepe.e6815240da80834a7d85.png",
     "static/media/zzz.webp": "/memeland/static/media/zzz.200fa63bef7bfdc7d6f6.webp",
     "static/media/rocket.png": "/memeland/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/logo-shib.png": "/memeland/static/media/logo-shib.14f40fd2c46c07b7a2a1.png",
@@ -46,11 +46,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.1b93f3ec.css.map": "/memeland/static/css/main.1b93f3ec.css.map",
-    "main.7f87eb6f.js.map": "/memeland/static/js/main.7f87eb6f.js.map"
+    "main.33a0fbbe.css.map": "/memeland/static/css/main.33a0fbbe.css.map",
+    "main.8b8d6987.js.map": "/memeland/static/js/main.8b8d6987.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b93f3ec.css",
-    "static/js/main.7f87eb6f.js"
+    "static/css/main.33a0fbbe.css",
+    "static/js/main.8b8d6987.js"
   ]
 }
