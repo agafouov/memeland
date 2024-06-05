@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.6e1dc485.css",
-    "main.js": "/memeland/static/js/main.c2d29778.js",
+    "main.css": "/memeland/static/css/main.eabdbc0c.css",
+    "main.js": "/memeland/static/js/main.bf58bff7.js",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
@@ -10,6 +10,7 @@
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
     "static/media/level_platinum.png": "/memeland/static/media/level_platinum.9fcd3ed64264930c3c8b.png",
     "static/media/level_diamond.png": "/memeland/static/media/level_diamond.f5d8ee540ae2aa677f7b.png",
+    "static/media/skin-dragon.png": "/memeland/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/level_silver.png": "/memeland/static/media/level_silver.209f192bc35cff455c44.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.6d2b238450a45cddf453.png",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
@@ -33,18 +34,17 @@
     "static/media/logo-floki.png": "/memeland/static/media/logo-floki.70094103ab4d6132cedf.png",
     "static/media/logo-pepe.jpg": "/memeland/static/media/logo-pepe.41458ad1796c69736c89.jpg",
     "static/media/fire.png": "/memeland/static/media/fire.a3f436f73c71c388f802.png",
-    "static/media/coin-min.svg": "/memeland/static/media/coin-min.f651a916768e919e3fb4.svg",
-    "static/media/skin-notcoin.avif": "/memeland/static/media/skin-notcoin.19113a4bd730dbbc780c.avif",
+    "static/media/notcoin-app.avif": "/memeland/static/media/notcoin-app.19113a4bd730dbbc780c.avif",
     "static/media/logo-bonk.jpg": "/memeland/static/media/logo-bonk.2b1bd6bc7cc1a48cdbfa.jpg",
     "static/media/skin-wif.webp": "/memeland/static/media/skin-wif.98372bbf5f87f3d908a5.webp",
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.6e1dc485.css.map": "/memeland/static/css/main.6e1dc485.css.map",
-    "main.c2d29778.js.map": "/memeland/static/js/main.c2d29778.js.map"
+    "main.eabdbc0c.css.map": "/memeland/static/css/main.eabdbc0c.css.map",
+    "main.bf58bff7.js.map": "/memeland/static/js/main.bf58bff7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e1dc485.css",
-    "static/js/main.c2d29778.js"
+    "static/css/main.eabdbc0c.css",
+    "static/js/main.bf58bff7.js"
   ]
 }
