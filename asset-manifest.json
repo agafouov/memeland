@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.364e6030.css",
-    "main.js": "/memeland/static/js/main.8b8d6987.js",
+    "main.css": "/memeland/static/css/main.1f0b71fa.css",
+    "main.js": "/memeland/static/js/main.bb95a3b2.js",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
+    "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/main-bg-doge.jpg": "/memeland/static/media/main-bg-doge.d1ce5f6ff124ec3e253f.jpg",
     "static/media/level_gold.png": "/memeland/static/media/level_gold.ea272f8adfcd1cf2241d.png",
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
-    "static/media/robot-ape.png": "/memeland/static/media/robot-ape.3d87cd52a24c6fb61bbb.png",
     "static/media/level_platinum.png": "/memeland/static/media/level_platinum.9fcd3ed64264930c3c8b.png",
     "static/media/level_diamond.png": "/memeland/static/media/level_diamond.f5d8ee540ae2aa677f7b.png",
     "static/media/level_silver.png": "/memeland/static/media/level_silver.209f192bc35cff455c44.png",
@@ -16,20 +16,13 @@
     "static/media/level_bronze.png": "/memeland/static/media/level_bronze.1d31d65dcecd0f6b1b06.png",
     "static/media/logo-wif.jpg": "/memeland/static/media/logo-wif.fc699febf6e86052c28a.jpg",
     "static/media/skin-doge.png": "/memeland/static/media/skin-doge.38df000442ec429d984a.png",
-    "static/media/main-bg-shib.png": "/memeland/static/media/main-bg-shib.c781410b4ca0e2972740.png",
     "static/media/gradient-gold.png": "/memeland/static/media/gradient-gold.1f153cf5b50b644d9727.png",
     "static/media/main-bg-bonk.png": "/memeland/static/media/main-bg-bonk.602f536fd86341411b52.png",
     "static/media/logo-bome.jpg": "/memeland/static/media/logo-bome.37dd5572240d3c1b9b7e.jpg",
     "static/media/logo-wif.png": "/memeland/static/media/logo-wif.b790b8b08b5d713ead78.png",
     "static/media/skin-floki.png": "/memeland/static/media/skin-floki.54add5aa51b8f30d896e.png",
     "static/media/peepo-rocket.gif": "/memeland/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
-    "static/media/main-bg-bronze.png": "/memeland/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
-    "static/media/main-bg-diamond.png": "/memeland/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
-    "static/media/main-bg-silver.png": "/memeland/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/skin-pepe.avif": "/memeland/static/media/skin-pepe.e10e85ac03cb06c12ef6.avif",
-    "static/media/main-bg-gold.png": "/memeland/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
-    "static/media/main-bg-platinum.png": "/memeland/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
-    "static/media/squad-battle-bg.png": "/memeland/static/media/squad-battle-bg.b920abb0e20a74f5359c.png",
     "static/media/logo-shib.jpg": "/memeland/static/media/logo-shib.f277a8df47ed1c9d9f51.jpg",
     "static/media/logo-floki.jpg": "/memeland/static/media/logo-floki.9cedbb89b76634954d0e.jpg",
     "static/media/main-bg-pepe.png": "/memeland/static/media/main-bg-pepe.e6815240da80834a7d85.png",
@@ -47,11 +40,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.364e6030.css.map": "/memeland/static/css/main.364e6030.css.map",
-    "main.8b8d6987.js.map": "/memeland/static/js/main.8b8d6987.js.map"
+    "main.1f0b71fa.css.map": "/memeland/static/css/main.1f0b71fa.css.map",
+    "main.bb95a3b2.js.map": "/memeland/static/js/main.bb95a3b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.364e6030.css",
-    "static/js/main.8b8d6987.js"
+    "static/css/main.1f0b71fa.css",
+    "static/js/main.bb95a3b2.js"
   ]
 }
