@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.11ba31c2.css",
-    "main.js": "/memeland/static/js/main.0d72593c.js",
+    "main.css": "/memeland/static/css/main.c2375ba5.css",
+    "main.js": "/memeland/static/js/main.ddd2a1cf.js",
     "static/media/stars.mp4": "/memeland/static/media/stars.a8862d98aa1f5173250c.mp4",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
@@ -36,6 +36,7 @@
     "static/media/main-bg-bonk.png": "/memeland/static/media/main-bg-bonk.602f536fd86341411b52.png",
     "static/media/logo-bome.jpg": "/memeland/static/media/logo-bome.37dd5572240d3c1b9b7e.jpg",
     "static/media/logo-wif.png": "/memeland/static/media/logo-wif.b790b8b08b5d713ead78.png",
+    "static/media/globe.png": "/memeland/static/media/globe.e3a5d4d09ea9f3757cac.png",
     "static/media/skin-cookie.png": "/memeland/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/skin-floki.png": "/memeland/static/media/skin-floki.54add5aa51b8f30d896e.png",
     "static/media/mexc.png": "/memeland/static/media/mexc.44a86583bb88c10f2981.png",
@@ -59,11 +60,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.11ba31c2.css.map": "/memeland/static/css/main.11ba31c2.css.map",
-    "main.0d72593c.js.map": "/memeland/static/js/main.0d72593c.js.map"
+    "main.c2375ba5.css.map": "/memeland/static/css/main.c2375ba5.css.map",
+    "main.ddd2a1cf.js.map": "/memeland/static/js/main.ddd2a1cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.11ba31c2.css",
-    "static/js/main.0d72593c.js"
+    "static/css/main.c2375ba5.css",
+    "static/js/main.ddd2a1cf.js"
   ]
 }
