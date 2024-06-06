@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memeland/static/css/main.be5137fe.css",
-    "main.js": "/memeland/static/js/main.5dde459e.js",
+    "main.js": "/memeland/static/js/main.17bacc45.js",
     "static/media/stars.mp4": "/memeland/static/media/stars.a8862d98aa1f5173250c.mp4",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
@@ -63,10 +63,10 @@
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
     "main.be5137fe.css.map": "/memeland/static/css/main.be5137fe.css.map",
-    "main.5dde459e.js.map": "/memeland/static/js/main.5dde459e.js.map"
+    "main.17bacc45.js.map": "/memeland/static/js/main.17bacc45.js.map"
   },
   "entrypoints": [
     "static/css/main.be5137fe.css",
-    "static/js/main.5dde459e.js"
+    "static/js/main.17bacc45.js"
   ]
 }
