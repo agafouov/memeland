@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.be5137fe.css",
-    "main.js": "/memeland/static/js/main.c0025b66.js",
+    "main.css": "/memeland/static/css/main.42e1f3e5.css",
+    "main.js": "/memeland/static/js/main.29a62d35.js",
     "static/media/stars.mp4": "/memeland/static/media/stars.a8862d98aa1f5173250c.mp4",
+    "static/media/skin-dragon.png": "/memeland/static/media/skin-dragon.4763b4b58923efed62ca.png",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
     "static/media/skin-shiba.png": "/memeland/static/media/skin-shiba.c858238006884ee652e5.png",
-    "static/media/turbo-ticker1.png": "/memeland/static/media/turbo-ticker1.94ca1fbc09a75655de6e.png",
     "static/media/frens.png": "/memeland/static/media/frens.587f4fc744df02bb98ef.png",
     "static/media/joined-platinum.png": "/memeland/static/media/joined-platinum.83a0c57508bcd73de394.png",
     "static/media/joined-silver.png": "/memeland/static/media/joined-silver.5490f072ccfe6e12c8c4.png",
@@ -17,7 +17,7 @@
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
     "static/media/level_platinum.png": "/memeland/static/media/level_platinum.9fcd3ed64264930c3c8b.png",
     "static/media/level_diamond.png": "/memeland/static/media/level_diamond.f5d8ee540ae2aa677f7b.png",
-    "static/media/skin-dragon.png": "/memeland/static/media/skin-dragon.0cbab4bfc1074767da32.png",
+    "static/media/skin-dragon1.png": "/memeland/static/media/skin-dragon1.0cbab4bfc1074767da32.png",
     "static/media/level_silver.png": "/memeland/static/media/level_silver.209f192bc35cff455c44.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.6d2b238450a45cddf453.png",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
@@ -45,7 +45,6 @@
     "static/media/skin-pepe.avif": "/memeland/static/media/skin-pepe.e10e85ac03cb06c12ef6.avif",
     "static/media/logo-shib.jpg": "/memeland/static/media/logo-shib.f277a8df47ed1c9d9f51.jpg",
     "static/media/logo-floki.jpg": "/memeland/static/media/logo-floki.9cedbb89b76634954d0e.jpg",
-    "static/media/main-bg-pepe1.png": "/memeland/static/media/main-bg-pepe1.4efec14eee0336bb3fa4.png",
     "static/media/main-bg-pepe.png": "/memeland/static/media/main-bg-pepe.e6815240da80834a7d85.png",
     "static/media/zzz.webp": "/memeland/static/media/zzz.200fa63bef7bfdc7d6f6.webp",
     "static/media/rocket.png": "/memeland/static/media/rocket.d16b8a552d844f705877.png",
@@ -62,11 +61,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.be5137fe.css.map": "/memeland/static/css/main.be5137fe.css.map",
-    "main.c0025b66.js.map": "/memeland/static/js/main.c0025b66.js.map"
+    "main.42e1f3e5.css.map": "/memeland/static/css/main.42e1f3e5.css.map",
+    "main.29a62d35.js.map": "/memeland/static/js/main.29a62d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5137fe.css",
-    "static/js/main.c0025b66.js"
+    "static/css/main.42e1f3e5.css",
+    "static/js/main.29a62d35.js"
   ]
 }
