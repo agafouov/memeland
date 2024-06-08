@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/memeland/static/css/main.5682eb2d.css",
-    "main.js": "/memeland/static/js/main.739e0194.js",
+    "main.css": "/memeland/static/css/main.5865e1e9.css",
+    "main.js": "/memeland/static/js/main.dcaeb3f3.js",
     "static/media/stars.mp4": "/memeland/static/media/stars.a8862d98aa1f5173250c.mp4",
+    "static/media/skin-dragon.png": "/memeland/static/media/skin-dragon.7d655f9416c59f256404.png",
     "static/media/logo-bonk.png": "/memeland/static/media/logo-bonk.18d79e1cea6b283f2ee7.png",
     "static/media/main-bg-bome.png": "/memeland/static/media/main-bg-bome.69f5064f2b38c0dcd16b.png",
     "static/media/main-bg-notcoin.png": "/memeland/static/media/main-bg-notcoin.558818066d99814f84bf.png",
@@ -16,7 +17,7 @@
     "static/media/joined-bronze.png": "/memeland/static/media/joined-bronze.745949f09b9295c8e356.png",
     "static/media/level_platinum.png": "/memeland/static/media/level_platinum.9fcd3ed64264930c3c8b.png",
     "static/media/level_diamond.png": "/memeland/static/media/level_diamond.f5d8ee540ae2aa677f7b.png",
-    "static/media/skin-dragon.png": "/memeland/static/media/skin-dragon.0cbab4bfc1074767da32.png",
+    "static/media/skin-dragon1.png": "/memeland/static/media/skin-dragon1.0cbab4bfc1074767da32.png",
     "static/media/level_silver.png": "/memeland/static/media/level_silver.209f192bc35cff455c44.png",
     "static/media/turbo-ticker.png": "/memeland/static/media/turbo-ticker.6d2b238450a45cddf453.png",
     "static/media/logo-doge.png": "/memeland/static/media/logo-doge.c56dae6ac351686b8b1b.png",
@@ -60,11 +61,11 @@
     "static/media/finger.png": "/memeland/static/media/finger.fce92dc7a7fdc9c12cf9.png",
     "static/media/skin-notcoin.png": "/memeland/static/media/skin-notcoin.b63e90e744ded3cbd6b3.png",
     "index.html": "/memeland/index.html",
-    "main.5682eb2d.css.map": "/memeland/static/css/main.5682eb2d.css.map",
-    "main.739e0194.js.map": "/memeland/static/js/main.739e0194.js.map"
+    "main.5865e1e9.css.map": "/memeland/static/css/main.5865e1e9.css.map",
+    "main.dcaeb3f3.js.map": "/memeland/static/js/main.dcaeb3f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.5682eb2d.css",
-    "static/js/main.739e0194.js"
+    "static/css/main.5865e1e9.css",
+    "static/js/main.dcaeb3f3.js"
   ]
 }
